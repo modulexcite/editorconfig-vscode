@@ -1,8 +1,14 @@
 {
   "name": "EditorConfig",
   "description": "Detects EditorConfig files and adheres to defined styles.",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "publisher": "EditorConfig",
+  "icon": "logo.png",
+  "galleryBanner.color": "f0f0f0",
+  "repository": {
+     "type": "git",
+     "url": "git+https://github.com/editorconfig/editorconfig-vscode"
+  },
   "engines": {
     "vscode": "^0.10.1"
   },
