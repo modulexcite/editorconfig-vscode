@@ -1,7 +1,7 @@
 {
   "name": "EditorConfig",
   "description": "Detects EditorConfig files and adheres to defined styles.",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "publisher": "EditorConfig",
   "icon": "logo.png",
   "galleryBanner.color": "f0f0f0",

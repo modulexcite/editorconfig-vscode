@@ -1,13 +1,15 @@
-# README
-## This is the README for your extension "EditorConfig" 
-You can author your README using Visual Studio Code.  Here are some useful editor keyboard shortcuts:
+# EditorConfig for Visual Studio Code
 
-* Split the editor (`Cmd+\` on OSX or `Ctrl+\` on Windows and Linux)
-* Toggle preview (`Shift+CMD+V` on OSX or `Shift+Ctrl+V` on Windows and Linux)
-* Press `Ctrl+Space` (Windows, Linux) or `Cmd+Space` (OSX) to see a list of Markdown snippets
+**__Deprecated (for now) in favor of [`vscode-editorconfig`](https://github.com/Microsoft/vscode-editorconfig)__**
 
-### For more information
-* [Visual Studio Code's Markdown Support](http://code.visualstudio.com/docs/languages/markdown)
-* [Markdown Syntax Reference](https://help.github.com/articles/markdown-basics/)
+## Supported Properties
 
-** Enjoy!**
+- `indent_style`
+
+## Backlog
+
+- `indent_size`
+- `tab_width`
+- `charset`
+- `end_of_line`
+- `trim_trailing_whitespace`
